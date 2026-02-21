@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kalleb Machado
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados`**
 
 Me chamo Kalleb Machado, tenho 22 anos e sou natural de Teófilo Otoni. Sou graduado em Sistemas de Informação. Atualmente, sou Suporte Tecnico Avançado. Sou Apaixonado por tecnologia e estou sempre tentando aprender novas liguagens.
 Sempre que aprendo uma nova, coloco meus projetos aqui.
@@ -9,14 +9,14 @@ Sempre que aprendo uma nova, coloco meus projetos aqui.
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Kallebmachado27?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/kallebMachado27?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Kallebmachado27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
