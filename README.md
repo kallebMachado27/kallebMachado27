@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kalleb Machado
+# Kalleb Machado
 
 **`Analista de Dados`**
 
