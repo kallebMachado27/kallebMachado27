@@ -3,7 +3,7 @@
 **`Analista de Dados`**
 
 Me chamo Kalleb Machado, tenho 22 anos e sou natural de Teófilo Otoni. Sou graduado em Sistemas de Informação. Atualmente, sou Suporte Tecnico Avançado. Sou Apaixonado por tecnologia e estou sempre tentando aprender novas liguagens.
-Sempre que aprendo uma nova, coloco meus projetos aqui.
+Sempre que aprendo uma nova coloco meus projetos aqui.
 <p align="left"> 
     <a href="https://github.com/kallebMachado27?tab=repositories&sort=stargazers">
         <img 
